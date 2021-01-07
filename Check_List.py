@@ -259,7 +259,7 @@ class CheckListEvaluator():
     
 
 def run():
-    # Определение значений лингвистических переменных 2
+    # Определение значений лингвистических переменных 3
     answers = [0,1,2,1,2,1,0,3,4,1,1,2]
     
     clEvaluator = CheckListEvaluator()
